@@ -1,0 +1,21 @@
+body{
+    /* background-color: al; */
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png);
+    background-size: cover;
+    
+
+
+
+    
+
+}
+.c1{
+    background-color: red;
+}
+div{
+    border: 2px solid black;
+    height: 480px;
+    width: 300px;
+
+
+}
